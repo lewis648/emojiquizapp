@@ -40,6 +40,10 @@ fieldset {
   padding: 6px;
 }
 
+ul {
+  padding-inline-start: 0px;
+}
+
 header ul li {
   list-style: none;
   text-transform: uppercase;
